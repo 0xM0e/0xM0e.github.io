@@ -2592,7 +2592,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: rgb(0, 0, 0);
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg2.jpg");
+		background-image: url("images/overlay.png"), url("../../images/backgrounds/bg2.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -3082,7 +3082,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #202020;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-image: url("images/overlay.png"), url("../../images/backgrounds/leaves.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
